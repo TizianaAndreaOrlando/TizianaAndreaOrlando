@@ -35,10 +35,8 @@ Here I will upload my projects to improve my knowledge and grow professionally.
 -I love to learn everything. Especially how things work. 
 
 -Also, I do love learning languages.
-
--At the moment I can speak Spanish English, Portuguese and read a little bit of Korean. 
-
--I consider that communication is a skill we must achieve and improve to grow as human beings. 
+At the moment I can speak Spanish English, Portuguese and read a little bit of Korean. 
+I consider that communication is a skill we must achieve and improve to grow as human beings. 
 
 ### Contact me
 
