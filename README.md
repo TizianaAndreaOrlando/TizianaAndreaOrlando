@@ -1,5 +1,5 @@
 ### Hi everybody 👋
-- 🔭 I’m currently working on ... Data visualization tools
+- 🔭 I’m currently working on ... Data visualization
 - 🌱 I’m currently learning ... Python and SQL
 - 👯 I’m looking to collaborate on ... Dashboard projects
 - 🤔 I’m looking for help with ... Data Analysis
