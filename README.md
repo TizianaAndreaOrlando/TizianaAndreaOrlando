@@ -1,10 +1,4 @@
 ### Hi everybody 👋
-
-<!--
-**TizianaAndreaOrlando/TizianaAndreaOrlando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... Data visualization tools
 - 🌱 I’m currently learning ... Python and SQL
 - 👯 I’m looking to collaborate on ... Dashboard projects
@@ -14,3 +8,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... I don't like potatochips but love cook it for others
 -->
+
+**TizianaAndreaOrlando/TizianaAndreaOrlando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
