@@ -1,9 +1,7 @@
 ### Hi everybody 👋
 
 My name is Andrea and I'm from Argentina. At the moment I'm a Bachelor's degree finance student focusing on the stock market. 
-
 🐾 I'm giving my first steps with Data Analytics and everything involved 🐾. 
-
 Here I will upload my projects to improve my knowledge and grow professionally. 
 
 ### My values
