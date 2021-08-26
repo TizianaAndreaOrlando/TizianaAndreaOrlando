@@ -10,8 +10,6 @@ Here I will upload my projects to improve my knowledge and grow professionally.
 
 -Efficiency and effectiveness.
 
--Entrepreneur mindset. 
-
 -I see teamwork as an opportunity to open your perspective about think.
 
 ### Goals 2021
@@ -25,7 +23,6 @@ Here I will upload my projects to improve my knowledge and grow professionally.
 
 -Learn languages. 
 
--I will start my entrepreneurship by taking advantage of all this data analytics knowledge.
 
 
 ### Fun fact
@@ -33,7 +30,7 @@ Here I will upload my projects to improve my knowledge and grow professionally.
 -I love to learn everything. Especially how things work. 
 
 -Also, I do love learning languages.
-At the moment I can speak Spanish English, Portuguese and read a little bit of Korean. 
+At the moment I can speak Spanish English and a little bit of Portuguese.
 I consider that communication is a skill we must achieve and improve to grow as human beings. 
 
 ### Contact me
