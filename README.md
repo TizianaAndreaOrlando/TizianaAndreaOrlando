@@ -10,7 +10,7 @@ Here I will upload my projects to improve my knowledge and grow professionally.
 
 -Efficiency and effectiveness.
 
--I see teamwork as an opportunity to open your perspective about think.
+-I see teamwork as an opportunity to open an individual's mind.
 
 ### Goals 2021
 
@@ -21,7 +21,7 @@ Here I will upload my projects to improve my knowledge and grow professionally.
 
 -Improve my soft skills to work better in teams.
 
--Learn languages. 
+-Learn languages.
 
 
 
@@ -30,8 +30,9 @@ Here I will upload my projects to improve my knowledge and grow professionally.
 -I love to learn everything. Especially how things work. 
 
 -Also, I do love learning languages.
-At the moment I can speak Spanish English and a little bit of Portuguese.
-I consider that communication is a skill we must achieve and improve to grow as human beings. 
+At the moment I can speak Spanish English and a little bit of German. Hope by the end of 2022 reach a B1 German level. 
+Why I'm a language lover? Basically I consider that communication is a skill we must achieve and improve to grow as human beings,
+being abble to understand with other culters opens a one's mind and makes you think how life works from other perspectives. 
 
 ### Contact me
 
