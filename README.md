@@ -1,6 +1,6 @@
 ### Hi everybody 👋
 
-My name is Andrea and I'm from Argentina. At the moment I'm a Bachelor's degree finance student focused on the stock market. 
+My name is Andrea and I'm from Argentina. At the moment I'm a Bachelor's degree in Finance student focused on the stock market. 
 I'm giving my first steps with Data Analytics and everything involved 🐾. 
 Here I will upload my projects to improve my knowledge and grow professionally. 
 
@@ -12,7 +12,7 @@ Here I will upload my projects to improve my knowledge and grow professionally.
 
 -I see teamwork as an opportunity to open an individual's mind.
 
-### Goals 2021
+### Goals 2022
 
 -Improve my Python skills.
 
