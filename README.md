@@ -16,7 +16,7 @@ Here I will upload my projects to improve my knowledge and grow professionally.
 
 -Improve my Python skills.
 
--To deep dive into the programming world and find out what I really pation me
+-To deep dive into the programming world and find out my passions. 
 
 ### Contact me
 
