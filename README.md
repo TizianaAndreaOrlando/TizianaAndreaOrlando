@@ -1,7 +1,9 @@
 ### Hi everybody 👋
 
-My name is Andrea and I'm from Argentina. At the moment I'm a Bachelor's degree in Finance student focused on the stock market. 
-I'm giving my first steps with Data Analytics and everything involved 🐾. 
+My name is Andrea and I'm from Argentina. Currently, I'm doing my Bachelor's degree in Finance focused on the stock market and corporate finances. 
+Being a Sophomore/Senior student is an enjoyable stage of my life because I can balance both finance learning and working. 
+I'm giving my first steps with Data Analytics and everything involved because I consider that data is such a powerful concept for companies who want to succeed.
+To do so, they need capable people that fulfill those needs and here is where I find myself as a good resource for a company. 
 Here I will upload my projects to improve my knowledge and grow professionally. 
 
 ### My values
@@ -16,11 +18,11 @@ Here I will upload my projects to improve my knowledge and grow professionally.
 
 -Improve my Python skills.
 
--To deep dive into the programming world and find out my passions. 
+-To deep dive into the programming world. 
 
 ### Contact me
 
 LinkedIn: www.linkedin.com/in/tiziana-orlando
 
-Mail: tizianaorlando@outlook.es // tizianaorlando87@gmail.com
+Mail: tizianaorlando87@gmail.com
 -->
