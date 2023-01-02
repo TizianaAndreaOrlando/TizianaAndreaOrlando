@@ -14,7 +14,7 @@ Here I will upload my projects to improve my knowledge and grow professionally.
 
 -I see teamwork as an opportunity to open an individual's mind.
 
-### Goals 2022
+### Goals 2023
 
 -Improve my Python skills.
 
