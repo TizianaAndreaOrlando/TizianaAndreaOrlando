@@ -1,22 +1,21 @@
-### Hi everybody 👋
+### Hi  👋
 
-My name is Andrea and I'm from Argentina. Currently, I'm doing my Bachelor's degree in Finance focused on the stock market and corporate finances. 
-Being a Sophomore/Senior student is an enjoyable stage of my life because I can balance both finance learning and working. 
-I'm giving my first steps with Data Analytics and everything involved because I consider that data is such a powerful concept for companies who want to succeed.
-To do so, they need capable people that fulfill those needs and here is where I find myself as a good resource for a company. 
-Here I will upload my projects to improve my knowledge and grow professionally. 
+My name is Andrea and I'm from Argentina. Currently, I'm doing my Bachelor's degree in Finance but I found out about programming and since then I've been doing little projects and enjoying it a lot. Everything become more and more interesting since I started learning about Linux and Bash. 
+I will post my projects here so feel free to look at them anytime. 
 
 ### My values
 
 -Rookie but with initiative and power of will.
 
--Efficiency and effectiveness.
-
 -I see teamwork as an opportunity to open an individual's mind.
+
+_Enjoy the process. 
 
 ### Goals 2023
 
 -Improve my Python skills.
+
+_Learn more about Linux and Bash
 
 -To deep dive into the programming world. 
 
