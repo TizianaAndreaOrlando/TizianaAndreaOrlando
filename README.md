@@ -1,27 +1,30 @@
-### Hi  👋
 
-My name is Andrea and I'm from Argentina. Currently, I'm doing my Bachelor's degree in Finance but I found out about programming and since then I've been doing little projects and enjoying it a lot. Everything become more and more interesting since I started learning about Linux and Bash. 
-I will post my projects here so feel free to look at them anytime. 
+"small changes can make big differences" 
+                                  {..Chaos Theory..}
 
-### My values
 
--Rookie but with initiative and power of will.
 
--I see teamwork as an opportunity to open an individual's mind.
+# Tech Stack:
 
-_Enjoy the process. 
-
-### Goals 2023
-
--Improve my Python skills.
-
-_Learn more about Linux and Bash
-
--To deep dive into the programming world. 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) 
 
 ### Contact me
 
-LinkedIn: www.linkedin.com/in/tiziana-orlando
+[![LinkedIn](https://img.shields.io/badge/connect-%230077B5.svg?&style=for-the-badge&logo=linkedin)](www.linkedin.com/in/tiziana-orlando/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](tizianaorlando87@gmail.com)
 
-Mail: tizianaorlando87@gmail.com
--->
+# Interests
+
+_{Interests: [
+     "Programming": ["Python", "C#", "javascript"],
+     "Cloud": ["Microsoft Azure", "AWS"],
+     "CLI": ["Bash", "Powershell"],
+     "Database: "SQL Server"
+     ]
+  }_
+
+--> 
