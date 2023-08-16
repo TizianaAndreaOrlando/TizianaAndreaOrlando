@@ -1,10 +1,10 @@
 
-"small changes can make big differences" 
+"small changes can make big differences" <br />
                                   {..Chaos Theory..}
 
 
 
-# Tech Stack:
+## Tech Stack:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -19,12 +19,12 @@
 
 # Interests
 
-_{Interests: [
-     "Programming": ["Python", "C#", "javascript"],
-     "Cloud": ["Microsoft Azure", "AWS"],
-     "CLI": ["Bash", "Powershell"],
-     "Database: "SQL Server"
-     ]
-  }_
+_{Interests: [ <br />
+     "Programming": ["Python", "C#", "javascript"], <br />
+     "Cloud": ["Microsoft Azure", "AWS"], <br /> 
+     "CLI": ["Bash", "Powershell"],<br /
+     "Database: "SQL Server"<br /
+     ]<br /
+  }_ <br />
 
 --> 
