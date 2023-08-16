@@ -1,6 +1,8 @@
 
-_"small changes can make big differences" <br />_
-                                  _*{..Chaos Theory..}*_
+_{"...Step by step, one day I will become the programmer I always dreamed of..."}_ <br />
+
+_"small changes can make big differences"_ <br />
+                                  _**{..Chaos Theory..}**_ 
 
 
 ## Tech Stack:
@@ -16,5 +18,12 @@ _"small changes can make big differences" <br />_
 [![LinkedIn](https://img.shields.io/badge/connect-%230077B5.svg?&style=for-the-badge&logo=linkedin)](www.linkedin.com/in/tiziana-orlando/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](tizianaorlando87@gmail.com)
 
+### Interests 
 
---> 
+ * Cloud Computing <br />
+ * Cybersecurity <br />
+ * Shell scripting <br />
+ * Programming <br />
+
+###
+_(To be continued)_ --> 
