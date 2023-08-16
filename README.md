@@ -1,7 +1,6 @@
 
 _"small changes can make big differences" <br />_
-                                  _{..Chaos Theory..}_
-
+                                  _*{..Chaos Theory..}*_
 
 
 ## Tech Stack:
@@ -17,14 +16,5 @@ _"small changes can make big differences" <br />_
 [![LinkedIn](https://img.shields.io/badge/connect-%230077B5.svg?&style=for-the-badge&logo=linkedin)](www.linkedin.com/in/tiziana-orlando/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](tizianaorlando87@gmail.com)
 
-### Interests
-
-_{Interests: [ <br />
-     "Programming": ["Python", "C#", "javascript"], <br />
-     "Cloud": ["Microsoft Azure", "AWS"], <br /> 
-     "CLI": ["Bash", "Powershell"],<br />
-     "Database: "SQL Server"<br />
-     ]<br />
-  }_ <br />
 
 --> 
