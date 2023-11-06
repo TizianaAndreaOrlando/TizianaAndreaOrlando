@@ -21,9 +21,6 @@ _**"Small changes can make big differences"**_ <br />
 ### Interests 
 
  * Cloud Computing <br />
- * Cybersecurity <br />
  * Shell scripting <br />
  * Programming <br />
 
-###
-_(To be continued)_ --> 
